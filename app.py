@@ -8,7 +8,7 @@ import pandas as pd
 from dagshub.streaming import install_hooks
 
 install_hooks(
-    repo_url=f"https://dagshub.com/{DAGSHUB_USER}/{DAGSHUB_REPO}.git"
+    repo_url=f"https://dagshub.com/Arjun-R-max/cpu-usage-predictor.git"
 )
 
 # --------------------------------------------------------------------
