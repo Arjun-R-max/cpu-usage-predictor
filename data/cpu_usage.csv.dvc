@@ -1,0 +1,5 @@
+outs:
+- md5: dd727c5dde7f32664df02796ae39d44e
+  size: 43523
+  hash: md5
+  path: cpu_usage.csv
