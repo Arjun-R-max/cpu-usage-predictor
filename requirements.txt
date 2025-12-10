@@ -1,0 +1,10 @@
+streamlit
+mlflow
+dagshub
+joblib
+pandas
+scikit-learn
+numpy
+requests
+dvc
+python-dotenv

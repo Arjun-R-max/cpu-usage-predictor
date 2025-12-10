@@ -1,0 +1,9 @@
+[core]
+    remote = dagshub
+['remote "origin"']
+    url = https://dagshub.com/Arjun-R-max/cpu-usage-predictor.dvc
+['remote "dagshub"']
+    url = https://dagshub.com/Arjun-R-max/cpu-usage-predictor.dvc
+    auth = basic
+    user = Arjun-R-max
+    password = e019ed3a35fc413dbc37a35940389b79c353c12f
